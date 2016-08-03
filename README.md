@@ -18,3 +18,7 @@ config.adapters.bearychat.token = "your_hubot_token"
 
 config.handlers.bearychat.token = "your_hubot_token"
 ```
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
